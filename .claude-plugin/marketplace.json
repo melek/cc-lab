@@ -1,0 +1,25 @@
+{
+  "name": "melek-claude-code-plugins",
+  "description": "Claude Code plugins by Lionel Di Giacomo",
+  "owner": { "name": "Lionel Di Giacomo" },
+  "plugins": [
+    {
+      "name": "lcars",
+      "source": { "source": "url", "url": "https://github.com/melek/lcars.git" },
+      "description": "Self-correcting cognitive ergonomics for Claude Code",
+      "version": "0.6.3"
+    },
+    {
+      "name": "workplanner",
+      "source": { "source": "url", "url": "https://github.com/melek/workplanner.git" },
+      "description": "Deterministic daily planning for Claude Code",
+      "version": "1.0.0-beta.1"
+    },
+    {
+      "name": "proven",
+      "source": { "source": "url", "url": "https://github.com/melek/proven.git" },
+      "description": "Evidence-based verification for Claude Code",
+      "version": "0.1.0"
+    }
+  ]
+}
