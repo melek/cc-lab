@@ -13,7 +13,7 @@
       "name": "workplanner",
       "source": { "source": "url", "url": "https://github.com/melek/workplanner.git" },
       "description": "Deterministic daily planning for Claude Code",
-      "version": "1.0.0-beta.1"
+      "version": "1.0.0-beta.2"
     },
     {
       "name": "proven",
