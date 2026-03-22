@@ -1,0 +1,6 @@
+[submodule "plugins/lcars"]
+	path = plugins/lcars
+	url = https://github.com/melek/lcars.git
+[submodule "plugins/workplanner"]
+	path = plugins/workplanner
+	url = https://github.com/melek/workplanner.git
