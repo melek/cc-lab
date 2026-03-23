@@ -4,3 +4,6 @@
 [submodule "plugins/workplanner"]
 	path = plugins/workplanner
 	url = https://github.com/melek/workplanner.git
+[submodule "plugins/stepwise"]
+	path = plugins/stepwise
+	url = https://github.com/melek/stepwise.git
