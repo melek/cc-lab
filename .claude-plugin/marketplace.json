@@ -19,7 +19,7 @@
       "name": "stepwise",
       "source": "./plugins/stepwise",
       "description": "Autonomous systematic literature review plugin with Kitchenham SLR protocol",
-      "version": "0.1.0"
+      "version": "0.2.1"
     }
   ]
 }
