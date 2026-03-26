@@ -1,4 +1,4 @@
-# melek-claude-code-plugins
+# cc-lab
 
 Claude Code plugins by [Lionel Di Giacomo](https://github.com/melek).
 
