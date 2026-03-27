@@ -7,3 +7,6 @@
 [submodule "plugins/stepwise"]
 	path = plugins/stepwise
 	url = https://github.com/melek/stepwise.git
+[submodule "plugins/proven"]
+	path = plugins/proven
+	url = https://github.com/melek/proven.git

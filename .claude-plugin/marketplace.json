@@ -20,6 +20,12 @@
       "source": "./plugins/stepwise",
       "description": "Autonomous systematic literature review plugin with Kitchenham SLR protocol",
       "version": "0.2.1"
+    },
+    {
+      "name": "proven",
+      "source": "./plugins/proven",
+      "description": "LLM-driven stepwise refinement with Dafny verification",
+      "version": "0.3.0"
     }
   ]
 }
