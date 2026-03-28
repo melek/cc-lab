@@ -5,27 +5,23 @@
   "plugins": [
     {
       "name": "lcars",
-      "source": "./plugins/lcars",
-      "description": "Self-correcting cognitive ergonomics for Claude Code",
-      "version": "0.6.4"
+      "source": { "source": "github", "repo": "melek/lcars" },
+      "description": "Self-correcting cognitive ergonomics for Claude Code"
     },
     {
       "name": "workplanner",
-      "source": "./plugins/workplanner",
-      "description": "Daily work-planning and progress-tracking for Claude Code",
-      "version": "1.0.0-beta.2"
+      "source": { "source": "github", "repo": "melek/workplanner" },
+      "description": "Daily work-planning and progress-tracking for Claude Code"
     },
     {
       "name": "stepwise",
-      "source": "./plugins/stepwise",
-      "description": "Autonomous systematic literature review plugin with Kitchenham SLR protocol",
-      "version": "0.2.1"
+      "source": { "source": "github", "repo": "melek/stepwise" },
+      "description": "Autonomous systematic literature review plugin with Kitchenham SLR protocol"
     },
     {
       "name": "proven",
-      "source": "./plugins/proven",
-      "description": "Verification-informed thinking for everyday development — methodology lens, codebase triage, and optional research participation",
-      "version": "0.4.0"
+      "source": { "source": "github", "repo": "melek/proven" },
+      "description": "Verification-informed thinking for everyday development — methodology lens, codebase triage, and optional research participation"
     }
   ]
 }
