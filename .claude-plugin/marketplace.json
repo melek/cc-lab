@@ -24,8 +24,8 @@
     {
       "name": "proven",
       "source": "./plugins/proven",
-      "description": "LLM-driven stepwise refinement with Dafny verification",
-      "version": "0.3.0"
+      "description": "Verification-informed thinking for everyday development — methodology lens, codebase triage, and optional research participation",
+      "version": "0.4.0"
     }
   ]
 }
